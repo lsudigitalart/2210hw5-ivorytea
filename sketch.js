@@ -51,8 +51,8 @@
 
 //Squares, divided horizontally and vertically into four equal parts. Within each part, color ink washes superimposed.
 //The squares are bordered by a ½-inch (1¼ cm) white band and a 4-inch (10 cm) black band.
-var rw=20;
-var rh=20;
+var rw=260;
+var rh=260;
 var s=0;
 
 function setup()
